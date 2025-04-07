@@ -62,4 +62,3 @@ async function removeItem(event) {
 
 addItemButton.addEventListener("click", addItem);
 itemList.addEventListener("click", removeItem);
- 
